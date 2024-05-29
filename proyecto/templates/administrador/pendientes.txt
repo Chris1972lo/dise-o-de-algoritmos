@@ -1,0 +1,5 @@
+lista de faltantes al proyecto:
+1-diseñar para cada sede un ingreso de hora obtenida en el registro de la sede y hora de salida obtenida automaticamente en la pagina de estimado por la cual debe estar una base de datos aparte de la base de datos de las sedes por cada una y por lo cual estas se deben restar y luego multiplicar por el valor dependiendo del resultado que aroje el resultado de la resta.
+2-en la mensualidad se modifican las tablas de todas las sedes añadiendo aparte de la hora una opcion de mensualidad que sea si y no en formato booleano en la base de datos y en el archivo de ingresos ahi tiene que tomar de todas las sedes ese valor de si y hacer un if en donde todos los valores que digan si sean igual a 50.000 y dar un resultado de cuantos son en una variable y en otra establecer el total de las mensualidades sumandolas entre si
+3-. Debe permitir obtener el total de ingresos diario por sede.
+

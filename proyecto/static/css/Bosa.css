@@ -1,0 +1,29 @@
+*{
+    background-image: url("Imagenes/formula.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.nav li a{
+    color:white;
+    text-decoration: none;
+    display: inline-block;
+    text-decoration-line: none;
+    padding: 10px 30px;
+  }
+  .registro {
+    color: white;
+    text-decoration: none;
+    padding: 10px 120px;
+    margin: -32px;
+
+}
+
+.tabla{
+
+  color:#F45050;
+}
+td{
+  color: white !important;
+}

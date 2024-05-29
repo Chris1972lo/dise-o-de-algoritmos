@@ -1,0 +1,20 @@
+*{
+    background-image: url("Imagenes/formula.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+   }
+   .nav li a{
+     color:white;
+     text-decoration: none;
+     display: inline-block;
+     text-decoration-line: none;
+     padding: 10px 30px;
+   }
+   .formula{
+     color: white;
+   }
+   .resultado{
+     color: white;
+   }

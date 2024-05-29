@@ -1,0 +1,10 @@
+*{
+        background-image: url("Imagenes/modificar.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+}
+.pagina{
+    color:white;
+}
